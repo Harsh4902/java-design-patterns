@@ -2342,6 +2342,43 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "Harsh4902",
+      "name": "Hashvardhan Parmar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84663071?v=4",
+      "profile": "https://github.com/Harsh4902",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "yongyongkr",
+      "name": "YongHwan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67625677?v=4",
+      "profile": "https://hwan33.tistory.com/",
+      "contributions": [
+        "doc",
+        "translation"
+      ]
+    },
+    {
+      "login": "shogohida",
+      "name": "Shogo Hida",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10365357?v=4",
+      "profile": "https://github.com/shogohida",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "Regyl",
+      "name": "Eugene",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48804404?v=4",
+      "profile": "https://github.com/Regyl",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
