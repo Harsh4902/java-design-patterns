@@ -24,7 +24,7 @@
  */
 package com.iluwatar.dependency.injection;
 
-import jakarta.inject.Inject;
+import com.google.inject.Inject;
 
 /**
  * GuiceWizard implements inversion of control. Its dependencies are injected through its
